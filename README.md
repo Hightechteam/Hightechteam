@@ -6,7 +6,7 @@
 Hello, I'm Eric Pettway, a passionate developer, business owner, and inventor from the United States Of America.
 
 - 🔭 We are currently working on a project entitled  [TrumpetBox Contactless Kiosk System](https://github.com/TrumpetBox)
-- 🔭 We are currently working on a project entitled  [Advertise Michigan](https://advertisemichigan.com)
+- 🔭 We are currently working on a project entitled  [Advertise Michigan](https://github.com/advertise-michigan)
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/hightechteam/)
 
 **Languages and Tools:**  
